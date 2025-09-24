@@ -50,7 +50,7 @@ For this project, you will expand upon a template using what you learned in this
         - **Apply an appropriate text-level semantic element** so the copyright information displays as small print.
      - **Save** the file. **Sync** your file to GitHub and apply a **Commit** that says, `Footer element created`.
 
-0. Within VS Code, correct any validation errors that may appear in your code using the [Web Development Student Extension Pack](https://marketplace.visualstudio.com/items?itemName=RioSaladoCollegeMedia.web-development-student-pack) you installed in Lesson 0: Course Introduction.
+0. Within VS Code, correct any validation errors that may appear in your code using the W3C Web Validator extension that you installed in [Lesson 0: Course Introduction: Preparations and Expectations: Git, GitHub, and VS Code: VS Code](https://riosalado.coursearc.com/content/cis-public/git-github-and-vs-code/vs-code#Activity-Install-VS-Code-Extensions).
     - You may ignore any warnings that may appear with your files. However, you are required to correct any and ***all*** validation **errors**.
 0. Make any necessary changes, then **Save** the file. **Sync** your file to GitHub and apply a **Commit** that says, `Final edits done. Part 1 completed`
 
